@@ -48,15 +48,15 @@ classDiagram
 
 ## Tecnologias 👨‍💻
 
-Java version "22.0.1" 2024-04-16
+Java:
 
-Java(TM) SE Runtime Environment (build 22.0.1+8-16)
-
-Java HotSpot(TM) 64-Bit Server VM (build 22.0.1+8-16, mixed mode, sharing)
-
-JDK Compliance 1.6
+- Java version "22.0.1" 2024-04-16
+- Java(TM) SE Runtime Environment (build 22.0.1+8-16)
+- Java HotSpot(TM) 64-Bit Server VM (build 22.0.1+8-16, mixed mode, sharing)
+- JDK Compliance 1.6
 
 Spring:
+
 - Maven
 - Spring Boot 3.3.2
 - Packaging Jar
@@ -64,9 +64,13 @@ Spring:
 - Spring Web
 - Spring data JPA
 - H2 Database
+- OpenAPI (Swagger)
 
+## Resultados 🎁
 
+A API e a Base de dados estão publicados nesse link (Hospedado pela Railway); pode ser que o link expira depois de um tempo.
 
+https://santander-dev-week-2024-production-2b04.up.railway.app/swagger-ui/index.html
 
 ## Referências 📚
 
@@ -76,7 +80,9 @@ https://github.com/falvojr/santander-dev-week-2023
 
 28/07/2024
 
-Adição do projeto no github
+- Adição do projeto no github
 
 ## Pendências 🚨
 
+- Poder adicionar mais de um cartão na conta
+- Adição de todos os endpoints de uma API Restful
